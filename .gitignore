@@ -1,1 +1,4 @@
 /node_modules
+/practice
+npm-debug.log
+/cta_gtfs
